@@ -1,7 +1,7 @@
 # Pattern Tiler
 
 ```sh
-usage: app.py [-h] --input INPUT --output OUTPUT --multiplier MULTIPLIER --output_res OUTPUT_RES
+usage: pattern-tiler [-h] --input INPUT --output OUTPUT --multiplier MULTIPLIER --output_res OUTPUT_RES
 
 Tile (w, h) image to (m * w, m * h) image given multiplier m and then resize to output_resolution.
 
